@@ -1,0 +1,104 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pasha\\Documents\\AutoCorrection\\AutoCorrection\\AutoCorrection.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pasha\\Documents\\AutoCorrection\\AutoCorrection\\AutoCorrection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pasha\\Documents\\AutoCorrection\\AutoCorrection\\AutoCorrection.csproj",
+        "projectName": "AutoCorrection",
+        "projectPath": "C:\\Users\\Pasha\\Documents\\AutoCorrection\\AutoCorrection\\AutoCorrection.csproj",
+        "packagesPath": "C:\\Users\\Pasha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pasha\\Documents\\AutoCorrection\\AutoCorrection\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "CommonServiceLocation": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "CommonServiceLocator": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            },
+            "Cquential.Microsoft.Practices.Unity.Interception": {
+              "target": "Package",
+              "version": "[2.0.414, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1000, )"
+            },
+            "Unity": {
+              "target": "Package",
+              "version": "[5.11.6, )"
+            },
+            "Unity.Configuration": {
+              "target": "Package",
+              "version": "[5.11.2, )"
+            },
+            "Unity.Container": {
+              "target": "Package",
+              "version": "[5.11.7, )"
+            },
+            "Unity.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.11.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
